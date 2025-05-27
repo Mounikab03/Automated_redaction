@@ -1,5 +1,3 @@
-# Automated_redaction
-PATEGAN-Project
 
 # REDACT: Automated Redaction with Encoder + PATE-GAN
 
